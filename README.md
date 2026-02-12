@@ -110,9 +110,9 @@ The output is ready for:
 
 This script is Script 01 of a 3-step EHT analysis workflow:
 
-Script 01 (this repository) – Combined dataset generation and Following classification
-Script 02 – Donor merging and filtering (baseline + Following-only selection)
-Script 03 - 
+- Script 01 (this repository) – Combined dataset generation and Following classification
+- Script 02 – Donor merging and filtering (baseline + Following-only selection)
+- Script 03 - 
 
 ---
 
@@ -125,5 +125,6 @@ EHT contractility measurements generated using the NovoHeart CTScreen platform w
 ## Authorship
 
 This script was developed by Michele Buono and can be used freely for research purposes, provided appropriate citation of the author.
+
 The overall workflow, structure, and clarity of the pipeline were iteratively refined with assistance from OpenAI - ChatGPT 5.2, which was used as a tool to improve code 
 organization, documentation, and usability.
