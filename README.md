@@ -1,4 +1,4 @@
-# EHT Pacing-Following Processing Pipeline (Script 01/03)
+# µEHT NovoHeart CTScreen Processing Pipeline (Script 01/03)
 
 This repository contains an R script for preprocessing engineered heart tissue (EHT) measurements generated using the **NovoHeart CTScreen** platform.
 
@@ -112,7 +112,7 @@ This script is Script 01 of a 3-step EHT analysis workflow:
 
 - Script 01 (this repository) – Combined dataset generation and Following classification
 - Script 02 – Donor merging and filtering (baseline + Following-only selection)
-- Script 03 - 
+- Script 03 - Metadata integration, statistical analysis, and visualization
 
 ---
 
