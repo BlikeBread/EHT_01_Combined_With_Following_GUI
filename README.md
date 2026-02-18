@@ -124,7 +124,9 @@ EHT contractility measurements generated using the NovoHeart CTScreen platform w
 
 ## Authorship
 
-This script was developed by Michele Buono and can be used freely for research purposes, provided appropriate citation of the author.
+This script was developed by **Michele Buono** and can be used freely for research purposes, provided appropriate citation of the author.
 
-The overall workflow, structure, and clarity of the pipeline were iteratively refined with assistance from OpenAI - ChatGPT 5.2, which was used as a tool to improve code 
+**Buono, M. F. (2026). µEHT Analysis Pipeline (Script 01/03) – Data Preprocessing & Structuring (v.1.0.1). Zenodo. https://doi.org/10.5281/zenodo.18682352**
+
+The overall workflow, structure, and clarity of the pipeline were iteratively refined with assistance from **OpenAI - ChatGPT 5.2**, which was used as a tool to improve code 
 organization, documentation, and usability.
